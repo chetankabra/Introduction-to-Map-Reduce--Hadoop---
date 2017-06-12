@@ -2,7 +2,7 @@
 """A more advanced Mapper, using Python iterators and generators."""
 # Name ; Chetan Rajesh KAbra
 # Stduent ID : 1001152872
-#lab - 1:00PM to 3:00PM
+#lab - 3:00PM to 5:00PM
 
 import sys
 import re
